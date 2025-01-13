@@ -4,6 +4,13 @@
 
 **PhotoShow**, *your* web gallery. **PhotoShow** is a *free* and *open source* web gallery, that you can very easily install on your web server. It doesn't even require a database !
 
+## Screenshots
+
+![image](Screenshots/index.jpg)
+![image](Screenshots/index2.jpg)
+![image](Screenshots/settings.jpg)
+![image](Screenshots/accounts.jpg)
+
 ## What's new ?
 
 Wow, well, loads. Here is a quick list.
